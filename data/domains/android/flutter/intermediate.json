@@ -3,5 +3,10 @@
         "title": "Android",
         "link": "https://developer.mozilla.org/",
         "type": "docs"
+    },
+    {
+        "title": "Android",
+        "link": "https://docs.flutter.dev/",
+        "type": "docs"
     }
 ]
