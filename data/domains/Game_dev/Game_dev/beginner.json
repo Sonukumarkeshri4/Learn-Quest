@@ -18,5 +18,10 @@
       "title": "Coursera",
       "link": "https://www.coursera.org/projects/introduction-to-basic-game-development-using-scratch",
       "type": "video"
-    }
+    },
+  {
+     "title": "GameDev",
+      "link": "https://www.youtube.com/c/GameDevUnlocked/videos",
+      "type": "video"
+  }
   ]
