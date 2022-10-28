@@ -790,6 +790,11 @@ footer {
   outline:none;
 }
 
+.roundImg{
+  border-radius: 10px;
+  width : 195px;
+   height :220px ;
+}
 
 /*Dark Mode CSS Ends*/
 
