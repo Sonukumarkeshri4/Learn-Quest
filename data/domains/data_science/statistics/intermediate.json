@@ -3,5 +3,11 @@
         "title": "C++",
         "link": "https://developer.mozilla.org/",
         "type": "docs"
+    },
+    
+    {
+        "title": "Statistics for Data Science",
+        "link": "https://www.youtube.com/watch?v=innk6tpRCW0",
+        "type": "video"
     }
 ]
